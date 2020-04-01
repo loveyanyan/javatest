@@ -1,4 +1,4 @@
-package com.jin.test.forTest;
+package com.djcps.test.forTest;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.jin.test.enumtest;
+package com.djcps.test.enumtest;
 
 /**
  * com.djcps.djcssweb.constant

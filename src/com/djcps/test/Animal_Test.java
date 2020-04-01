@@ -1,4 +1,4 @@
-package com.jin.test;
+package com.djcps.test;
 
 /**
  * @author yj

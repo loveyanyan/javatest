@@ -1,4 +1,4 @@
-package com.jin.test.arrayandcollection;
+package com.djcps.test.arrayandcollection;
 
 import java.beans.Transient;
 import java.util.*;

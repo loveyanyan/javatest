@@ -1,4 +1,4 @@
-package com.jin.test.collection;
+package com.djcps.test.collection;
 
 import com.sun.org.apache.bcel.internal.generic.NEW;
 

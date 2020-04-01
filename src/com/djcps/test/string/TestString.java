@@ -1,4 +1,4 @@
-package com.jin.test.string;
+package com.djcps.test.string;
 
 import com.sun.org.apache.xpath.internal.SourceTree;
 

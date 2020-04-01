@@ -1,6 +1,6 @@
-package com.jin.test;
+package com.djcps.test;
 
-import com.jin.test.enumtest.DjConstantEnum;
+import com.djcps.test.enumtest.DjConstantEnum;
 
 /**
  * com.test
