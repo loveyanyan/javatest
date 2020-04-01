@@ -1,4 +1,4 @@
-package com.test.arrayandcollection;
+package com.jin.test.arrayandcollection;
 
 import java.beans.Transient;
 import java.util.*;
@@ -12,9 +12,9 @@ import java.util.*;
 public class TestArray {
 
     public static void main(String[] args) {
-        com.test.arrayandcollection.TestArray.testarr();
+        TestArray.testarr();
         System.out.println("-----------------------");
-        com.test.arrayandcollection.TestArray.testmap();
+        TestArray.testmap();
         Transient Entry[];
     }
 

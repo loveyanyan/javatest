@@ -1,4 +1,4 @@
-package com.test.string;
+package com.jin.test.string;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
@@ -22,7 +22,8 @@ class Test {
         BigDecimal a = new BigDecimal(1.01123124142);
         System.out.println(a);
         String s = a.toString();
-        System.out.println(decimalFormat.format(a));
+        String format = decimalFormat.format(s);
+        System.out.println(format);
     }
 
 

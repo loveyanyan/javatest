@@ -1,4 +1,4 @@
-package com.test.calender;
+package com.jin.test.calender;
 
 import javax.sound.midi.Soundbank;
 import java.text.ParseException;
