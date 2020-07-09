@@ -11,11 +11,20 @@ import java.util.*;
  */
 public class TestArray {
 
-    public static void main(String[] args) {
-        TestArray.testarr();
+    public static void main(String[] args) throws Exception {
+        /*TestArray.testarr();
         System.out.println("-----------------------");
         TestArray.testmap();
-        Transient Entry[];
+        Transient Entry[];*/
+        try {
+            System.out.println("正常语句！");
+            int i = 1 / 0;
+            System.out.println("还正常吗?");
+        } catch (Exception e) {
+            System.out.println("遇到异常了");
+            throw new Exception("尴尬，出问题了");
+        }
+        System.out.println("你还在吗?");
     }
 
     @Override

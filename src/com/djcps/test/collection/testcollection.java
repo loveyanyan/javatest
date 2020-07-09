@@ -27,7 +27,14 @@ public class testcollection {
 */
         // testList();
         //test2();
-        test3();
+        /*test3();*/
+        Map<String, List> map = new HashMap<>();
+        List id = map.get("ID");
+        if (map.get("ID").isEmpty()){
+            System.out.println("我还在吗");
+        }
+        System.out.println(id);
+
     }
 
 
