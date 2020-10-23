@@ -30,7 +30,7 @@ public class testcollection {
         /*test3();*/
         Map<String, List> map = new HashMap<>();
         List id = map.get("ID");
-        if (map.get("ID").isEmpty()){
+        if (map.get("ID").isEmpty()) {
             System.out.println("我还在吗");
         }
         System.out.println(id);
